@@ -1,0 +1,68 @@
+@import "../../base.scss";
+
+.login {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: $black-primary;
+  overflow: hidden;
+
+  &__container {
+    background-color: $black-primary;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .creator{
+      position: absolute;
+      bottom: 200px;
+      color:#a8b9d3;
+      font-size: 13px;
+      font-weight: 600;
+      text-transform:none; 
+    }
+
+    .banner{
+        width: 100%;
+        margin-top: 17px;
+        transition: all ease-in-out 0.2s;
+
+        &:hover{
+            mix-blend-mode:hard-light;
+        }
+    }
+
+    button {
+      width: 181px;
+      height: 65px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: transparent;
+      color: white;
+      border: 1px solid #fe3636;
+      border-radius: 11px;
+      font-weight: normal;
+      font-size: 12px;
+      letter-spacing: 0.01em;
+      transition: all 0.2s ease;
+
+      &:hover {
+        background-color: #fe363626;
+        border: none;
+      }
+    }
+
+    p {
+      font-size: 10px;
+      text-transform: uppercase;
+      color: $text-color;
+      margin-top: 94px;
+    }
+  }
+  img {
+    object-fit: contain;
+   
+  }
+}

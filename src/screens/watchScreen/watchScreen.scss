@@ -1,0 +1,31 @@
+.watchScreen__player {
+  height: 60vh;
+  background-color: #353946;
+  width: 100%;
+  // max-width: 780px;
+  margin-bottom: 2rem;
+  border-radius: 16px;
+
+  iframe {
+    border-radius: 16px;
+  }
+}
+.up-next {
+  width: 210px;
+  height: 43px;
+  display: flex;
+//   align-items: center;
+  justify-content: center; 
+  background: #323232;
+  border-radius: 10px;
+
+  h3{
+      padding-top: 6px;
+    font-weight: 600;
+    font-size: 16px;
+    align-self: center;
+    text-transform: capitalize;
+    
+    color: #838080;
+  }
+}
