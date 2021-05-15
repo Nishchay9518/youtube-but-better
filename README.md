@@ -63,16 +63,15 @@ The Application Runs on **localhost:3000**
 ## Application design
 
 #### Components
-
 1. **Login** Component : This Component allows user to login through their Google Account.
 
-2. **HomeScreen** Component : This Component Displays the details of the selected customer. This Component gets its data from a json file in assets folder as well. This Component is the Child Component of *Customers* Component
+2. **HomeScreen** Component : This Component Displays the details of the selected customer. This Component gets its data from a json file in assets folder as well. This Component is the Child Component of *Customers* Component.
 
 3. **WatchScreen** Component : This Component Displays the video, comments of the Selected Video and related videos. This Component gets the data from a youtube data api
 
-4.**Subscriptions Screen** Component : This Component displays a list of subscriptions. This Component gets the data from a youtube data api
+4. **Subscriptions Screen** Component : This Component displays a list of subscriptions. This Component gets the data from a youtube data api
 
-5.**Search Screen** Component : This Component displays a list of search results. This Component gets the data from a youtube data api
+5. **Search Screen** Component : This Component displays a list of search results. This Component gets the data from a youtube data api
 
 #### HTTP client
 
