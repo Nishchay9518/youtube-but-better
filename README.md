@@ -1,8 +1,9 @@
 # Youtube But Better
 
-![youtube redesign](https://user-images.githubusercontent.com/71606731/118367602-b4671400-b5be-11eb-8408-81af6e35159d.png)
-![Player](https://user-images.githubusercontent.com/71606731/118368108-06a83500-b5bf-11eb-99b3-6fec79d62394.png)
+![Frame 1](https://user-images.githubusercontent.com/71606731/119213093-75632200-bada-11eb-86b1-c35454e01351.png)
 
+you can check the Youtube Redesign Concept here. 
+### https://www.behance.net/gallery/119924397/Youtube-Redesign-Concept 
 
 ## What is the use of this Repo
 
