@@ -74,6 +74,11 @@ The Application Runs on **localhost:3000**
 
 5. **Search Screen** Component : This Component displays a list of search results. This Component gets the data from a youtube data api
 
+#### Components
+1. **Comment** : Supports real-time comments. the changes will be reflected to your orignal youtube account
+2. **Responsive** : Fully responsive for both Desktop and Mobile Devices
+3. **Hamburger Menu** : Added Hamburger Menu when sized to Mobile Devices
+
 #### HTTP client
 
 **axios** library is used to make HTTP Calls
