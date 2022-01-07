@@ -14,23 +14,23 @@
     flex-direction: column;
     align-items: center;
 
-    .creator{
+    .creator {
       position: absolute;
       bottom: 200px;
-      color:#a8b9d3;
+      color: #a8b9d3;
       font-size: 13px;
       font-weight: 600;
-      text-transform:none; 
+      text-transform: none;
     }
 
-    .banner{
-        width: 100%;
-        margin-top: 17px;
-        transition: all ease-in-out 0.2s;
+    .banner {
+      width: 100%;
+      margin-top: 17px;
+      transition: all ease-in-out 0.2s;
 
-        &:hover{
-            mix-blend-mode:hard-light;
-        }
+      &:hover {
+        mix-blend-mode: hard-light;
+      }
     }
 
     button {
@@ -58,11 +58,33 @@
       font-size: 10px;
       text-transform: uppercase;
       color: $text-color;
-      margin-top: 94px;
+      margin-top: 15px;
     }
   }
   img {
     object-fit: contain;
-   
+  }
+
+  .cred-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 25px;
+    padding: 5px 1.3rem;
+    background-color: rgba(30, 30, 30, 0.496);
+
+    span {
+      padding: 0.5rem;
+      font-size: small;
+    }
+
+    p {
+      margin: 1px;
+    }
+  }
+
+  .instruct {
+    width: 20px;
+    height: 20px;
   }
 }
