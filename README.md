@@ -25,6 +25,9 @@ The project Template can be used to build bigger projects
 
 ### https://utube-but-better.web.app  
 This URL has the application deployed in Firebase
+### you can use this demo credentials to login.
+#### Username : testmyproject.24@gmail.com
+#### Password : test.test.test
 
 ## Prerequisites
 
@@ -41,7 +44,9 @@ npm install -g create-react-app
 
 The Application is deployed in https://utube-but-better.web.app 
 
-Click on the link to see the application
+Click on the link to see the application. you can use below demo credentials to login.
+#### Username : testmyproject.24@gmail.com
+#### Password : test.test.test
 
 ## Cloning and Running the Application in local
 
